@@ -2,7 +2,7 @@
 
 With the rapid advancement of remote sensing (RS) technology, RS image interpretation has made great progress and been widely used in broad practical applications, in which the constructed benchmark datasets for developing and testing intelligent interpretation algorithms has been playing an increasingly critical role. Motivated by the essential prerequisites of dataset in the development of RS image interpretation algorithms, this manuscript provides a discussion on dataset construction for RS image interpretation. Specifically, we first analyze the current challenges of developing algorithms for RS image interpretation and a comprehensively review on the widespread RS image datasets is conducted through the bibliometric analysis. We then propose some principles, i.e., diversity, richness, and scalability (called DiRS), and discuss the methodology on constructing benchmark datasets. An implementation on creating the RS scene classification dataset,i.e., Million-AID, demonstrates the practicability of our proposed framework and the experimental results show that our constructed dataset can serve as a promising benchmark for RS image scene interpretation.
 
-#### A website is available at: https://captain-whu.github.io/MAID/
+#### A website is available at: https://IenLong.github.io/MAID/
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IenLong/DiRS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
